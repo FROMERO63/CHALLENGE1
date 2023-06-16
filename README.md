@@ -17,17 +17,16 @@ The website was already working well but the goal was to refactor without disrup
 ## Usage
 
 Refactor while maintaining original layout and function
-    ```md
-    ![alt text](assets/images/horiseon page.jpg)
-    ```
+
+![HORISEON PAGE](https://github.com/FROMERO63/CHALLENGE1/assets/134673364/a8a7361a-c702-4e54-922f-e0c1cd066053)
+
 Added a title name
-        ```md
-    ![alt text](assets/images/title text.jpg)
-    ```
+
+ ![TITLE TEXT](https://github.com/FROMERO63/CHALLENGE1/assets/134673364/4222bf00-6cb4-4dd3-832d-5f5ccf839cf1)
+    
 Added notes
-            ```md
-    ![alt text](assets/images/css notes.jpg)
-    ```
+
+![CSS NOTES](https://github.com/FROMERO63/CHALLENGE1/assets/134673364/5736862d-49da-4c62-8f59-ce93bfb350e8)
 
 ## Credits
 
