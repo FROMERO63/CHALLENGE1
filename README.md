@@ -36,4 +36,4 @@ https://github.com/dhl287
 
 ## Tests
 To test this site, go to the website to view
-https://fromero63.github.io/CHALLENGE1/
+https://fromero63.github.io/horisean-page/
